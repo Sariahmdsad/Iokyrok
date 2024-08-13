@@ -1,0 +1,26 @@
+#mm{
+  width: 412px;
+  height: 400px;
+  background: green;
+  margin-top: -30px;
+  margin-left: -60px;
+  text-align: center;
+}
+#cc{
+  width: 412px;
+  height: 30px;
+  background: black;
+  margin-left: -60px;
+  
+}
+
+#v{
+  color: green;
+  text-align: center;
+  margin-top: -20px;
+  
+  text-shadow: 0px 10px 50px black;
+}
+#kk{
+  text-align: center;
+}
